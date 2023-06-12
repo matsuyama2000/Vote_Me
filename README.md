@@ -1,24 +1,10 @@
-# README
+# VoteMe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 課程 純手工打造
 
-Things you may want to cover:
+Video demonstration 示範影片: INSERT URL
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##  Version 版本
+- **Ruby 3.2.2**
+- **Rails 6.1.7.3**
+- **Node 16.19.0**
